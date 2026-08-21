@@ -53,11 +53,6 @@ Métodos:
 
 Crea un objeto de cada tipo de pedido, muestra su resumen, calcula el tiempo estimado de entrega de cada uno y presenta una comparativa final.
 
-## Requisitos
-
-- JDK 17 o superior
-- Maven (opcional, también se puede compilar con `javac` directamente)
-
 ## Cómo ejecutar
 
 ### Con Maven
